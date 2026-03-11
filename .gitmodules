@@ -5,3 +5,6 @@
 [submodule "inflateR"]
 	path = inflateR
 	url = https://github.com/charlescoverdale/inflater
+[submodule "readaec"]
+	path = readaec
+	url = https://github.com/charlescoverdale/readaec
