@@ -5,6 +5,9 @@
 [submodule "boe"]
 	path = boe
 	url = https://github.com/charlescoverdale/boe
+[submodule "fred"]
+	path = fred
+	url = https://github.com/charlescoverdale/fred
 [submodule "hmrc"]
 	path = hmrc
 	url = https://github.com/charlescoverdale/hmrc
@@ -17,9 +20,18 @@
 [submodule "ons"]
 	path = ons
 	url = https://github.com/charlescoverdale/ons
+[submodule "predictset"]
+	path = predictset
+	url = https://github.com/charlescoverdale/predictset
 [submodule "readaec"]
 	path = readaec
 	url = https://github.com/charlescoverdale/readaec
+[submodule "readecb"]
+	path = readecb
+	url = https://github.com/charlescoverdale/readecb
+[submodule "readnoaa"]
+	path = readnoaa
+	url = https://github.com/charlescoverdale/readnoaa
 [submodule "readoecd"]
 	path = readoecd
 	url = https://github.com/charlescoverdale/readoecd
