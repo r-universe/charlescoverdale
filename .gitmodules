@@ -5,6 +5,9 @@
 [submodule "boe"]
 	path = boe
 	url = https://github.com/charlescoverdale/boe
+[submodule "climatekit"]
+	path = climatekit
+	url = https://github.com/charlescoverdale/climatekit
 [submodule "fred"]
 	path = fred
 	url = https://github.com/charlescoverdale/fred
