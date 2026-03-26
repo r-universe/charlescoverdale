@@ -17,6 +17,9 @@
 [submodule "inflateR"]
 	path = inflateR
 	url = https://github.com/charlescoverdale/inflater
+[submodule "nowcast"]
+	path = nowcast
+	url = https://github.com/charlescoverdale/nowcast
 [submodule "obr"]
 	path = obr
 	url = https://github.com/charlescoverdale/obr
