@@ -17,6 +17,9 @@
 [submodule "inflateR"]
 	path = inflateR
 	url = https://github.com/charlescoverdale/inflater
+[submodule "inflationkit"]
+	path = inflationkit
+	url = https://github.com/charlescoverdale/inflationkit
 [submodule "nowcast"]
 	path = nowcast
 	url = https://github.com/charlescoverdale/nowcast
@@ -41,3 +44,6 @@
 [submodule "readoecd"]
 	path = readoecd
 	url = https://github.com/charlescoverdale/readoecd
+[submodule "yieldcurves"]
+	path = yieldcurves
+	url = https://github.com/charlescoverdale/yieldcurves
