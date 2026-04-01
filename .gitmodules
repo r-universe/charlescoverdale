@@ -8,6 +8,9 @@
 [submodule "climatekit"]
 	path = climatekit
 	url = https://github.com/charlescoverdale/climatekit
+[submodule "debtkit"]
+	path = debtkit
+	url = https://github.com/charlescoverdale/debtkit
 [submodule "fred"]
 	path = fred
 	url = https://github.com/charlescoverdale/fred
