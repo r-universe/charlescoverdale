@@ -20,6 +20,9 @@
 [submodule "hmrc"]
 	path = hmrc
 	url = https://github.com/charlescoverdale/hmrc
+[submodule "inequality"]
+	path = inequality
+	url = https://github.com/charlescoverdale/inequality
 [submodule "inflateR"]
 	path = inflateR
 	url = https://github.com/charlescoverdale/inflater
