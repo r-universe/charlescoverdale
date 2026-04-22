@@ -5,6 +5,9 @@
 [submodule "boe"]
 	path = boe
 	url = https://github.com/charlescoverdale/boe
+[submodule "carbondata"]
+	path = carbondata
+	url = https://github.com/charlescoverdale/carbondata
 [submodule "climatekit"]
 	path = climatekit
 	url = https://github.com/charlescoverdale/climatekit
@@ -29,6 +32,9 @@
 [submodule "inflationkit"]
 	path = inflationkit
 	url = https://github.com/charlescoverdale/inflationkit
+[submodule "mpshock"]
+	path = mpshock
+	url = https://github.com/charlescoverdale/mpshock
 [submodule "nowcast"]
 	path = nowcast
 	url = https://github.com/charlescoverdale/nowcast
@@ -53,6 +59,9 @@
 [submodule "readoecd"]
 	path = readoecd
 	url = https://github.com/charlescoverdale/readoecd
+[submodule "ukhousing"]
+	path = ukhousing
+	url = https://github.com/charlescoverdale/ukhousing
 [submodule "yieldcurves"]
 	path = yieldcurves
 	url = https://github.com/charlescoverdale/yieldcurves
