@@ -32,6 +32,9 @@
 [submodule "inflationkit"]
 	path = inflationkit
 	url = https://github.com/charlescoverdale/inflationkit
+[submodule "ivcheck"]
+	path = ivcheck
+	url = https://github.com/charlescoverdale/ivcheck
 [submodule "mpshock"]
 	path = mpshock
 	url = https://github.com/charlescoverdale/mpshock
