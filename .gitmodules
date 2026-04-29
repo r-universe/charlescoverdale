@@ -2,12 +2,21 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "aemo"]
+	path = aemo
+	url = https://github.com/charlescoverdale/aemo
+[submodule "ato"]
+	path = ato
+	url = https://github.com/charlescoverdale/ato
 [submodule "boe"]
 	path = boe
 	url = https://github.com/charlescoverdale/boe
 [submodule "carbondata"]
 	path = carbondata
 	url = https://github.com/charlescoverdale/carbondata
+[submodule "cer"]
+	path = cer
+	url = https://github.com/charlescoverdale/cer
 [submodule "climatekit"]
 	path = climatekit
 	url = https://github.com/charlescoverdale/climatekit
@@ -20,6 +29,9 @@
 [submodule "fred"]
 	path = fred
 	url = https://github.com/charlescoverdale/fred
+[submodule "greenbook"]
+	path = greenbook
+	url = https://github.com/charlescoverdale/greenbook
 [submodule "hmrc"]
 	path = hmrc
 	url = https://github.com/charlescoverdale/hmrc
