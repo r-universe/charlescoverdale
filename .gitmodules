@@ -47,6 +47,9 @@
 [submodule "ivcheck"]
 	path = ivcheck
 	url = https://github.com/charlescoverdale/ivcheck
+[submodule "magentabook"]
+	path = magentabook
+	url = https://github.com/charlescoverdale/magentabook
 [submodule "mpshock"]
 	path = mpshock
 	url = https://github.com/charlescoverdale/mpshock
