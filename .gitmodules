@@ -5,6 +5,9 @@
 [submodule "aemo"]
 	path = aemo
 	url = https://github.com/charlescoverdale/aemo
+[submodule "aieconindex"]
+	path = aieconindex
+	url = https://github.com/charlescoverdale/aieconindex
 [submodule "ato"]
 	path = ato
 	url = https://github.com/charlescoverdale/ato
