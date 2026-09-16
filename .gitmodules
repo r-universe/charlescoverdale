@@ -29,6 +29,9 @@
 [submodule "debtkit"]
 	path = debtkit
 	url = https://github.com/charlescoverdale/debtkit
+[submodule "evaluatellm"]
+	path = evaluatellm
+	url = https://github.com/charlescoverdale/evaluatellm
 [submodule "fred"]
 	path = fred
 	url = https://github.com/charlescoverdale/fred
